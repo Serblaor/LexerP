@@ -1,0 +1,43 @@
+.table-responsive {
+    overflow-x: auto;
+  
+  }
+  h2 {
+    text-align: center;
+  }
+  table {
+    width: 90%;
+    text-align: center;
+  }
+  
+  th {
+    background-color: #343a40;
+    color: black;
+  }
+  
+  tbody tr:hover {
+    background-color: #f8f9fa;
+  }
+  
+  tbody td:hover {
+    background-color: #dee2e6;
+    cursor: pointer;
+  }
+  
+  .pagination {
+    justify-content: center;
+    margin-top: 1rem;
+  }
+  
+  .page-link {
+    color: green;
+  }
+  
+  .form-control {
+    width: 40%;
+    margin-top: 1rem;
+  }
+  .form-control .button {
+    width: 40%;
+    margin-top: 1rem;
+  }
